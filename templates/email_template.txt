@@ -1,0 +1,11 @@
+Nuevo pedido de la tienda online TOP BABY
+    Pedido Nª: 1111
+    Fecha: 12/12/2021
+    Articulos:
+
+    Articulo 1
+    Articulo 2
+    Articulo 3
+    
+Tienda OnLine generada por PRAGMASOFT
+    
